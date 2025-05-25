@@ -47,11 +47,15 @@ Check out the live demo [here](https://feben-g.github.io/Interactive-3D-Product-
 #  Project Structure
 
  / (root)
+ 
 ├── index.html
+
 ├── styles/
 │   └── style.css
+
 └── scripts/
-    ├── initScene.js           
+
+    ├── initScene.js     
     ├── createProduct.js       
     ├── addLighting.js         
     ├── interaction.js         
