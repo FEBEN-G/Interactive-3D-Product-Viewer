@@ -1,4 +1,4 @@
-# Name:Feben Getachew  UGR/4295/15 Section-3
+# Name:Feben Getachew  UGR/4295/15   Section-3
 
 # Interactive 3D Product Viewer (Basic Mesh Edition)
 
@@ -7,7 +7,7 @@ A **modern 3D desktop viewer** built with [Three.js](https://threejs.org/) that 
 ---
 ## Demo
 
-Check out the live demo [here](https://your-demo-url.com).
+Check out the live demo [here](https://feben-g.github.io/Interactive-3D-Product-Viewer/).
 ---
 ## Features
 
@@ -51,11 +51,11 @@ Check out the live demo [here](https://your-demo-url.com).
 ├── styles/
 │   └── style.css
 └── scripts/
-    ├── initScene.js           # Initializes renderer, camera, scene, controls
-    ├── createProduct.js       # Adds monitor, keyboard, mouse, base, ground
-    ├── addLighting.js         # Configures ambient and directional lighting
-    ├── interaction.js         # Handles click/hover interaction logic
-    └── cameraAnimation.js     # Auto-rotation logic for camera
+    ├── initScene.js           
+    ├── createProduct.js       
+    ├── addLighting.js         
+    ├── interaction.js         
+    └── cameraAnimation.js     
 
 ## Technologies
 
